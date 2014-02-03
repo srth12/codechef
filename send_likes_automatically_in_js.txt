@@ -1,0 +1,4 @@
+javascript:var inputs = document.getElementsByClassName('uiButton _1sm'); 
+for(var i=0; i<4000;i++) { 
+inputs[i].click(); 
+}
